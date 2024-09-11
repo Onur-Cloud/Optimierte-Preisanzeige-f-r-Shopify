@@ -2,6 +2,11 @@
 
 Diese Anleitung erklärt, wie Sie eine optimierte Preisanzeige in Ihr Shopify-Theme integrieren können.
 
+## Vorschau
+
+![Vorschau 1](https://i.ibb.co/1XsSZNc/Bildschirmfoto-11-9-2024-1485-bluessenz-de.jpg)
+![Vorschau 2](https://i.ibb.co/zVwyNDh/Bildschirmfoto-11-9-2024-2643-bluessenz-de.jpg)
+
 ## Funktionen
 
 - Anzeige des aktuellen Preises
